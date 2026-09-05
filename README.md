@@ -158,10 +158,10 @@
 <a href="https://github.com/Vishwakumar30">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/vishwakumar30">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kumarkumar8681@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
