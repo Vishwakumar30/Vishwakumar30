@@ -1,100 +1,177 @@
-# Hi there 👋 I'm Vishwa Kumar
+<div align="center">
 
-### Linux | AWS | DevOps | Cloud Enthusiast
+# 👋 Hi, I'm Vishwa Kumar
 
-I'm a BCA graduate passionate about Linux, Cloud Computing, AWS, and DevOps.
-Currently building real-world projects involving CI/CD, Docker, Kubernetes, Terraform, Jenkins, and monitoring tools.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Linux+Engineer;AWS+Cloud+Enthusiast;DevOps+Learner;Building+Real-World+Projects" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Linux%20|%20AWS%20|%20DevOps&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+<p>
+  <a href="https://github.com/Vishwakumar30">
+    <img src="https://img.shields.io/github/followers/Vishwakumar30?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vishwakumar30&style=for-the-badge&color=0e75b6"/>
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 - 🐧 Linux Administration
-- ☁️ Learning AWS Solutions Architecture
-- ⚙️ Building DevOps projects
-- 📊 Monitoring with Prometheus & Grafana
+- ☁️ Learning AWS Solutions Architect
+- ⚙️ Building CI/CD pipelines with Jenkins
+- 🐳 Docker & Kubernetes enthusiast
 - 🛡️ Exploring DevSecOps
-- 🌱 Currently learning Kubernetes (EKS), Terraform & Jenkins
+- 📊 Monitoring with Prometheus & Grafana
+- 🌱 Currently mastering Terraform & EKS
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### Cloud & DevOps
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux,bash"/>
+</p>
 
-### Containers & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+</p>
 
 ### Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Tools
-Git • GitHub • VS Code • Ubuntu • Bash • SonarQube
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana"/>
+</p>
 
 ---
 
-## ⭐ Featured Projects
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishwakumar30&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwakumar30&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Vishwakumar30&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎬 Netflix DevSecOps Pipeline
 
-- CI/CD using Jenkins
-- Docker containerization
-- SonarQube code analysis
-- AWS deployment
-- Prometheus & Grafana monitoring
+- Jenkins CI/CD
+- Docker
+- SonarQube
+- AWS Deployment
+- Prometheus
+- Grafana
+
+</td>
+
+<td width="50%">
 
 ### ☁️ AWS EKS Infrastructure
 
-- Kubernetes cluster on AWS
-- eksctl setup
-- Node groups
-- Terraform infrastructure
+- Kubernetes
+- eksctl
+- Terraform
+- IAM
+- Node Groups
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🖱️ Invisible Mouse
 
-AI-powered virtual mouse using:
-
+- Python
 - OpenCV
 - MediaPipe
-- Python
+- AI Gesture Control
+
+</td>
+
+<td>
+
+### 🎌 OTAKUHUB
+
+- React
+- MongoDB
+- REST APIs
+- Frontend Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Graph
 
-![Vishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwakumar30&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwakumar30&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vishwakumar30&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwakumar30&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 🎯 Current Goals
+## 🐍 Contribution Snake
 
-- AWS Solutions Architect Associate
-- Advanced Kubernetes
-- Terraform Projects
-- Linux Automation with Bash
-- Real-world DevOps Portfolio
+<p align="center">
+<img src="https://raw.githubusercontent.com/Vishwakumar30/Vishwakumar30/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+> *(Enable this later using GitHub Actions.)*
 
 ---
 
-## 🤝 Connect with Me
+## 🎯 2026 Goals
 
-- GitHub: https://github.com/Vishwakumar30
-- LinkedIn: *(Add your LinkedIn here)*
+- [ ] AWS Solutions Architect Associate
+- [ ] Advanced Kubernetes
+- [ ] Terraform Production Projects
+- [ ] Linux Automation with Bash
+- [ ] Build a complete DevOps Portfolio
 
-> "Keep learning. Keep building. Keep deploying."
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Vishwakumar30">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+> **"Automate Everything. Learn Continuously. Deploy Fearlessly."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+
+</div>
