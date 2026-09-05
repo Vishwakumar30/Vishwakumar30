@@ -109,20 +109,6 @@
 
 </td>
 
-<td>
-
-### 🎌 OTAKUHUB
-
-- React
-- MongoDB
-- REST APIs
-- Frontend Development
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📈 Contribution Graph
 
